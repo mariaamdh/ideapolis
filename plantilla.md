@@ -10,9 +10,9 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : _
 
-**Autor(es)** ______________
+**Autor(es)** Celia López, Elena Valenzuela y Maria de Hoces 
 
 **Resumen** : _________
 
