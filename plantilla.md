@@ -10,14 +10,14 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 ----
 
-**Titulo** : _
+**Titulo** : Sin Tapujos
 
-**Autor(es)** Celia López, Elena Valenzuela y Maria de Hoces 
+**Autor(es)** Celia López, Elena Valenzuela y Maria Ángeles Muñoz
 
 **Resumen** : _________
 
-**logotipo** :  ________
-
+**logotipo** : 
+![logo]()
 **Slogan** (frase motivadora/inspiradora): ________
 
 **Hashtag**  ___
