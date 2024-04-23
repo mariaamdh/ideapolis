@@ -17,7 +17,7 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 **Resumen** : _________
 
 **logotipo** : 
-![logo]()
+![logo](logotipo.jpg)
 **Slogan** (frase motivadora/inspiradora): ________
 
 **Hashtag**  ___
