@@ -35,6 +35,7 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 #AprenderYCrecer
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
+Utilizamos la licencia CCBY, ya que permite a otros compartir y adaptar nuestro trabajo con reconocimiento, lo que puede aumentar la visibilidad y fomentar la colaboración e innovación. Además, contribuye a la cultura libre y abierta.
 
 **Fecha** : 2024
 
@@ -58,6 +59,8 @@ Nuestro objetivo es proporcionar orientación confiable y herramientas práctica
 
 #### Vision
 
+Nos esforzamos por crear un espacio seguro y acogedor donde puedas aprender, reflexionar y conectar con otros.
+
 
 
 
@@ -74,6 +77,8 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
 **¿Como surge el proyecto?**
+
+Aprovechando el alcance y la interactividad de las redes sociales y todos los problemas de salud mental y emocional que están surgiendo a través de estas redes. Pensamos que es buena idea para crear una comunidad comprometida con su bienestar
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
