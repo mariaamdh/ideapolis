@@ -78,7 +78,11 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 La ideación del proyecto la hicimos mediante la aplicación Trello, herramienta de gestión de proyectos basada en el sistema Kanban, que utiliza tarjetas y tableros para organizar tareas y actividades en equipo.
 En la que fuimos desarrollando una lluvia de ideas de proyectos en los que queríamos inspirarnos.
+
+
 ![logo](trello.PNG)
+
+Y seguimos con la lluvia de ideas en la aplicación Milanote
 
 **¿Como surge el proyecto?**
 
@@ -88,9 +92,12 @@ En el contexto posterior a la pandemia de COVID-19, observamos un aumento notabl
 
 * Para el análisis de competencia utilizamos **BuzzSumo** para analizar el contenido más compartido y las tendencias y ver en que temas estan interesados los usuarios de redes sociales.
 * Para consultas de directrices y mejores prácticas no ayudamos en **Mental Health America**, **World Health Organization** y **National Institute of Mental Health**
+* Para coger ideas inspiradoras: **Podcast: un ratito con irene** https://www.ivoox.com/podcast-un-ratito-irene_sq_f1762510_1.html y **PsicoVlog** https://www.youtube.com/@psicovlog
 
 
 #### Necesidad/oportunidad
+
+La creciente conciencia sobre la salud mental y la prevalencia de problemas emocionales entre los jóvenes y adolescentes presentan una necesidad urgente y una oportunidad de mercado para una empresa que ofrezca servicios de salud mental accesibles y adaptados a la era digital. La digitalización y la afinidad tecnológica de los jóvenes facilitan la implementación de una plataforma en línea que pueda superar barreras geográficas y socioeconómicas, proporcionando un espacio seguro y relevante para este grupo demográfico. Esta empresa no solo tiene el potencial de llenar un vacío en el acceso a recursos de salud mental, sino que también puede liderar innovaciones en la prestación de estos servicios, aprovechando tecnologías avanzadas y formando colaboraciones estratégicas con instituciones educativas y organizaciones de salud.
 
 #### Motivación de la propuesta
 
@@ -99,6 +106,7 @@ La propuesta de crear una comunidad en línea enfocada en la salud mental y emoc
 Utilizando tecnologías avanzadas y accesibles, esta comunidad en línea propone un acceso global a recursos de salud mental, superando barreras geográficas y socioeconómicas. Con funciones como la inteligencia artificial para la moderación y personalización, la plataforma busca ofrecer intervenciones proactivas y personalizadas, creando así un espacio donde los usuarios no solo encuentren soporte sino también una comunidad resiliente y empática. Esta iniciativa representa una dirección revolucionaria en cómo las interacciones digitales pueden estructurarse para mejorar significativamente el bienestar emocional y la salud mental a gran escala.
 
 #### Personas/Usuarios
+
 Para la comunidad en online centrada en la salud mental y emocional, el público objetivo puede ser diverso y amplio, dado que los problemas de salud mental no discriminan por edad, género, ubicación o estatus socioeconómico. 
 Pero sobre todo nos hemos centrado en jóvenes y adolescentes, ya que es el público con más actividad en redes sociales y al que más le repercute este tipo de problemas de salud emocional.
 
@@ -179,8 +187,8 @@ Wix: Para la creación rápida de sitios web con capacidades extendidas mediante
 
 (...)
 * (Artículos ..  )
-* (Productos utilizados ) 
-* (Recursos tipo Imágenes, videos , etc.) 
+* (Productos utilizados ) Canva, Trello, Microsoft Teams, Wix
+* (Recursos tipo Imágenes, videos , etc.) Todas las imagenes han sido generadas con inteligancia artificial
 
 
 
