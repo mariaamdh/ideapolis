@@ -123,7 +123,7 @@ Análisis del Público: A través de una serie de preguntas sobre los intereses,
 Perfil del Usuario: Con esta información, se determinó que el contenido del podcast debería enfocarse en abordar las aspiraciones idealistas y los desafíos emocionales relacionados con el uso de redes sociales, por lo que los usuarios que más frecuencias las redes sociales, son los jóvenes y adolescentes, ya que es el público con más actividad en redes sociales y al que más le repercute este tipo de problemas de salud emocional.
 
 
-![logo](preguntassusuarios.PNG)
+![logo](preguntasusuarios.PNG)
 
 
 ![logo](sombreros.PNG)
