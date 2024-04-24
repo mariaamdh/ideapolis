@@ -76,18 +76,18 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 ### Etapa 1: Ideación de proyecto 
 
-La ideación del proyecto la hicimos mediante la aplicación Trello 
+La ideación del proyecto la hicimos mediante la aplicación Trello, herramienta de gestión de proyectos basada en el sistema Kanban, que utiliza tarjetas y tableros para organizar tareas y actividades en equipo.
+En la que fuimos desarrollando una lluvia de ideas de proyectos en los que queríamos inspirarnos.
 ![logo](trello.PNG)
 
 **¿Como surge el proyecto?**
 
-Aprovechando el alcance y la interactividad de las redes sociales y todos los problemas de salud mental y emocional que están surgiendo a través de estas redes. Pensamos que es buena idea para crear una comunidad comprometida con su bienestar
+En el contexto posterior a la pandemia de COVID-19, observamos un aumento notable en el uso de redes sociales, un fenómeno que, aunque facilitó nuevas formas de conexión social, también contribuyó a un incremento en los niveles de ansiedad y depresión entre los usuarios. Reconociendo la penetración y la capacidad de interacción que ofrecen estas plataformas, identificamos una oportunidad única para transformar cómo las personas interactúan en línea en relación a su salud mental. Así surgió la idea de crear una comunidad digital donde el bienestar emocional sea el foco, un lugar donde los usuarios puedan expresarse libremente, compartir sus experiencias sin temor al juicio y recibir apoyo en un entorno controlado y positivo. Nuestro objetivo es redefinir la interacción en redes sociales para hacer de estas un espacio seguro que fomente el diálogo abierto y la salud mental.
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
-* 
+* Para el análisis de competencia utilizamos **BuzzSumo** para analizar el contenido más compartido y las tendencias y ver en que temas estan interesados los usuarios de redes sociales.
+* Para consultas de directrices y mejores prácticas no ayudamos en **Mental Health America**, **World Health Organization** y **National Institute of Mental Health**
 
 
 #### Necesidad/oportunidad
