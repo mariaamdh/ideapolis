@@ -82,7 +82,12 @@ En la que fuimos desarrollando una lluvia de ideas de proyectos en los que quer�
 
 ![logo](trello.PNG)
 
-Y seguimos con la lluvia de ideas en la aplicación Milanote
+Y seguimos con la lluvia de ideas en la aplicación Milanote, que es en la que más hemos trabajado y donde hemos ido todas las ideas para nuestro proyecto, como slogan, paleta de colores, logo, palabras clave, actividades que queremos realizar, videos de ayuda, retos que hacer, como puede verse en la siguiente imagen.
+
+
+
+![logo](milanote.jpg)
+
 
 **¿Como surge el proyecto?**
 
@@ -114,13 +119,17 @@ Pero sobre todo nos hemos centrado en jóvenes y adolescentes, ya que es el púb
 
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
+* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada
 
-* redes sociales (...) 
+Se ha creado un diseño de interfaz limpio y atractivo que refleja un ambiente acogedor y seguro, utilizando una paleta de colores azules y naranjas para no sobrecargar visualmente a los usuarios. La portada destaca accesos directos como podcast y retos
 
-* publicidad: banner (... ) 
+* redes sociales
+  Se han planificado perfiles en plataformas como Instagram, TikTok y YouTube. Estos perfiles ofrecerán contenido  y campañas de concienciación sobre la salud mental, además de servir como puntos de contacto directo y apoyo entre la comunidad. Ademas desde estos perfiles podrán interactuar en los directos que se hagan desde las redes sociales y participar en los retos. Los contenidos de estas redes sociales estarán directamente vinculados con la plataforma, permitiendo a los usuarios acceder a recursos completos o iniciar sesión para participar en discusiones y actividades desde los enlaces publicados en las redes sociales.
 
-* ...
+* publicidad: banner (... )
+  Se van a diseñar varios banners publicitarios desplegados en redes sociales y sitios web frecuentados por jóvenes, como plataformas de streaming. Las herramientas como canva con ayuda de generador de imagenes de inteligencia artificial serán de ayuda para crear estos elementos visuales.
+
+
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
