@@ -203,6 +203,8 @@ Preguntas relacionadas con la experiecia del usuarios en la plataforma y nuestro
 - ¿Recomendaría nuestra plataforma a amigos o familiares? ¿Por qué sí o por qué no?
 
   Preguntas enfocadas en la evaluación del progreso de la salud mental del usuario:
+
+  
   -Desde que comenzó a utilizar nuestra plataforma, ¿ha notado algún cambio en su bienestar emocional o mental?
   -¿Ha utilizado las herramientas de autoayuda proporcionadas en la plataforma? Si es así, ¿cómo calificaría su efectividad
   -¿Ha participado en las sesiones de grupo o foros comunitarios? ¿Han sido útiles estas interacciones para usted?
