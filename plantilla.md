@@ -243,9 +243,13 @@ Canva: Para el diseño de contenido visual
 Trello: Para la gestión de proyectos y seguimiento del progreso de las tareas
 Microsoft Teams: Para la comunicación interna del equipo
 Wix: Para la creación rápida de sitios web con capacidades extendidas mediante plugins
+
+
 * Propuestas de mejora
 
-(...)
+-Implementar personalización mediante inteligencia artificial para ajustar recursos y recomendaciones.
+-Ampliar los servicios ofreciendo talleres.
+-ofrecer capacitación a educadores y padres.
 
 
 
@@ -259,13 +263,21 @@ Wix: Para la creación rápida de sitios web con capacidades extendidas mediante
 * [Proceso UX](https://uxmastery.com/resources/process/)
 * [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
 * [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
-* [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
+* [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b)
+* OCW 
   
 
-(...)
-* (Artículos ..  )
-* (Productos utilizados ) Canva, Trello, Microsoft Teams, Wix
-* (Recursos tipo Imágenes, videos , etc.) Todas las imagenes han sido generadas con inteligancia artificial
+
+* (Artículos ..  ) Através de OCW, hemos buscado varios cursos que nos son de gran ayuda para enfocar y seguir creciendo con nuestro proyecto y son los siguientes:
+  -https://ocw.unican.es/course/view.php?id=24
+  -https://ocw.unican.es/course/view.php?id=25
+  -https://ocw.unican.es/course/view.php?id=26
+  -https://ocw.unican.es/course/view.php?id=18
+  -https://www.udemy.com/course/curso-inteligencia-emocional/
+  -https://www.udemy.com/course/aprende-lenguaje-corporal-para-mejorar-tu-comunicacion/
+  
+* (Productos utilizados ) Canva, Trello, Microsoft Teams, Wix, Excel
+* (Recursos tipo Imágenes, videos , etc.) Todas las imagenes han sido generadas con inteligancia artificial y canva
 
 
 
