@@ -77,7 +77,7 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 ### Etapa 1: Ideación de proyecto 
 
 La ideación del proyecto la hicimos mediante la aplicación Trello 
-![logo](trello.png)
+![logo](trello.PNG)
 
 **¿Como surge el proyecto?**
 
