@@ -188,15 +188,29 @@ Se ha creado un diseño de interfaz limpio y atractivo que refleja un ambiente a
 ### Etapa 3: Técnicas de evaluación utilizadas
 
 Encuestas y Cuestionarios: Recopilar feedback sobre la usabilidad y el impacto percibido de la plataforma. 
+
 Evaluaciones de Salud Mental: Utilizar herramientas de evaluación pre y post uso para medir cambios en la salud mental de los usuarios.
 
 #### Test con usuarios (...) 
 
-
+A los usuarios se le puede hacer tantos test relacionados con la manera en la que trabajamos y su evaluación con nuestro servicio, para saber en que aspectos podemos mejorar, tanto un test de evaluación sobre su salud mental para comprobar si los clientes estan obteniendo buenos resultados tras realizar nuestros servicios.
 
 #### Preguntas frecuentes
 
+Preguntas relacionadas con la experiecia del usuarios en la plataforma y nuestro servicio:
+- ¿Cómo calificaría la facilidad de uso de nuestra plataforma?
+- ¿Qué funcionalidades adicionales le gustaría ver implementadas en la plataforma?
+- ¿Recomendaría nuestra plataforma a amigos o familiares? ¿Por qué sí o por qué no?
 
+  Preguntas enfocadas en la evaluación del progreso de la salud mental del usuario:
+  -Desde que comenzó a utilizar nuestra plataforma, ¿ha notado algún cambio en su bienestar emocional o mental?
+  -¿Ha utilizado las herramientas de autoayuda proporcionadas en la plataforma? Si es así, ¿cómo calificaría su efectividad
+  -¿Ha participado en las sesiones de grupo o foros comunitarios? ¿Han sido útiles estas interacciones para usted?
+  -¿Siente que tiene suficiente acceso a recursos de apoyo profesional a través de nuestra plataforma?
+  -En una escala del 1 al 10, ¿cómo calificaría su estado de salud mental antes y después de usar nuestra plataforma?
+  
+  
+  
 
 ### Conclusiones y trabajo futuro
 
