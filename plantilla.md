@@ -72,7 +72,13 @@ Esta visión refleja tanto la misión educativa como la social de la empresa, pr
 
 ### Metodología
 
-Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences) 
+**Identificación de competencias y oportunidades**
+
+Análisis de Fortalezas: Las tres personas del equipo evaluamos nuestras habilidades individuales, identificando competencias clave en redes sociales, bienestar, psicología, y habilidades informativas y documentales.
+
+Definición de la Idea de Negocio: Utilizando nuestras fortalezas, decidimos  crear una empresa centrada en producir podcasts que aborden temas de salud emocional y mental, especialmente en el contexto de las redes sociales.
+
+
 
 ### Etapa 1: Ideación de proyecto 
 
@@ -112,8 +118,11 @@ Utilizando tecnologías avanzadas y accesibles, esta comunidad en línea propone
 
 #### Personas/Usuarios
 
-Para la comunidad en online centrada en la salud mental y emocional, el público objetivo puede ser diverso y amplio, dado que los problemas de salud mental no discriminan por edad, género, ubicación o estatus socioeconómico. 
-Pero sobre todo nos hemos centrado en jóvenes y adolescentes, ya que es el público con más actividad en redes sociales y al que más le repercute este tipo de problemas de salud emocional.
+Análisis del Público: A través de una serie de preguntas sobre los intereses, miedos, medidas de éxito y comportamientos de su público potencial, se identificaron los efectos negativos de las redes sociales, como las comparaciones y el miedo al fracaso.
+
+Perfil del Usuario: Con esta información, se determinó que el contenido del podcast debería enfocarse en abordar las aspiraciones idealistas y los desafíos emocionales relacionados con el uso de redes sociales, por lo que los usuarios que más frecuencias las redes sociales, son los jóvenes y adolescentes, ya que es el público con más actividad en redes sociales y al que más le repercute este tipo de problemas de salud emocional.
+
+
 
 ### Etapa 2: Prototipar / productos 
 
