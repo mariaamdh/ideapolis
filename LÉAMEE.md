@@ -33,6 +33,11 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 #CuidandoLaMente
 #ConexiónEmocional
 #AprenderYCrecer
+#sintapujos
+#saludmental
+#jovenesadultos
+#bienestarmental
+#apoyomutuo
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 Utilizamos la licencia CCBY, ya que permite a otros compartir y adaptar nuestro trabajo con reconocimiento, lo que puede aumentar la visibilidad y fomentar la colaboración e innovación. Además, contribuye a la cultura libre y abierta.
@@ -56,6 +61,10 @@ Somos una empresa comprometida con el bienestar emocional y mental. Nuestro equi
 ### Misión
 
 Nuestro objetivo es proporcionar orientación confiable y herramientas prácticas para ayudar a los clientes a mejorar su bienestar y calidad de vida. Contamos con una amplia experiencia en el campo y un compromiso con la educación y el apoyo a nuestra comunidad.
+Normalizar las conversaciones sobre la salud mental: Romper el estigma y crear un espacio donde los jóvenes puedan hablar abiertamente sobre sus experiencias sin miedo a ser juzgados.
+Brindar apoyo mutuo: Fomentar una comunidad donde los miembros puedan apoyarse mutuamente, compartir recursos y experiencias, y sentirse comprendidos.
+Conectar a los jóvenes con profesionales de la salud mental: Ofrecer información sobre recursos y servicios de salud mental accesibles y confiables
+
 
 #### Vision
 
@@ -236,6 +245,8 @@ Preguntas relacionadas con la experiecia del usuarios en la plataforma y nuestro
 * Grado de consecución del proyecto
   
 * Problemas identificados  (técnicos / sobre la idea inicial / planificacion… )
+
+  Los problemas que nos podemos encontrar es que haya personas que no le guste el podcast o sienta rechazo en cuanto a poder hablar de temas serios de la salud mental, que nos encontremos con gente que no deb información fiable sobre lo temas, 
   
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
   
