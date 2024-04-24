@@ -123,28 +123,60 @@ Pero sobre todo nos hemos centrado en jóvenes y adolescentes, ya que es el púb
 
 Se ha creado un diseño de interfaz limpio y atractivo que refleja un ambiente acogedor y seguro, utilizando una paleta de colores azules y naranjas para no sobrecargar visualmente a los usuarios. La portada destaca accesos directos como podcast y retos
 
-* redes sociales
+* Redes sociales
   Se han planificado perfiles en plataformas como Instagram, TikTok y YouTube. Estos perfiles ofrecerán contenido  y campañas de concienciación sobre la salud mental, además de servir como puntos de contacto directo y apoyo entre la comunidad. Ademas desde estos perfiles podrán interactuar en los directos que se hagan desde las redes sociales y participar en los retos. Los contenidos de estas redes sociales estarán directamente vinculados con la plataforma, permitiendo a los usuarios acceder a recursos completos o iniciar sesión para participar en discusiones y actividades desde los enlaces publicados en las redes sociales.
 
-* publicidad: banner (... )
+* Publicidad: banner (... )
   Se van a diseñar varios banners publicitarios desplegados en redes sociales y sitios web frecuentados por jóvenes, como plataformas de streaming. Las herramientas como canva con ayuda de generador de imagenes de inteligencia artificial serán de ayuda para crear estos elementos visuales.
 
   Aunque la interacción de los usuarios va a ser desde las redes sociales, disponemos de una pagina web que hemos hecho con wix, donde explicamos quienes somos, añadimos los retos que se van haciendo en las redes sociales con un enlace directo que te lleva a ellos y donde alojamos los podcast que hemos ido haciendo y los que se van a realizar recientemente.
   En la pagina web de inicio, se puede visualizar como predomina la paleta de colores naranjas y azules, en la que se reflejan nuestras redes sociales desde donde pueden interactuar los usuarios, una pequeña entrada de bienvenida y nuestro eslogan sin tapujos.
+  
+
+![logo](portadawix.PNG)
+
 
   Si continuamos bajando en la página de inicio, encontramos un apartado donde explican los servicios que ofrecemos, los retos y lo activos que estamos en redes sociales y unas frases que representan nuestra comunidad y objetivos.
 
+
+  ![logo](inicioinfo.PNG)   
+
+
+  ![logo](frasesrepresentativas.PNG)
+
+
+  
   En la sección quienes somos, tenemos una breve introducción en la que explicamos quien esta detrás de sin tapujos.
+
+
+
+  ![logo](quienessomos.PNG)
+
+
+
+  
 
   En la sección de podcast, podemos observar varios podcast que se han ido realizando, y los próximos podcast que se van a realizar y con la fecha correspondiente, aunque días antes los promocionamos por las historias de nuestras redes sociales.
 
+
+
+   ![logo](podcast.PNG)
+
+
+
+   ![logo](proximospodcast.PNG)
+
+
+   
+
   Y finalmente en la sección de retos, tenemos los retos que se estan realizando en la actualidad, lo cuales estan enlazados para dirigir a los usuarios a la red social que se están realizando.
   
-  
-
 
   
 
+
+  
+![logo](retos.PNG)
 
   
   
