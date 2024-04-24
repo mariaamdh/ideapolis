@@ -94,11 +94,13 @@ En el contexto posterior a la pandemia de COVID-19, observamos un aumento notabl
 
 #### Motivación de la propuesta
 
-¿ por qué consideras interesante ? 
+La propuesta de crear una comunidad en línea enfocada en la salud mental y emocional surge como una respuesta innovadora a la creciente necesidad de apoyo psicológico, exacerbada por las secuelas de la pandemia de COVID-19. Este proyecto tiene como objetivo transformar el uso de las redes sociales, tradicionalmente criticadas por sus efectos negativos en la salud mental, en herramientas que promuevan un ambiente seguro y de apoyo. Al fomentar un diálogo abierto y desestigmatizado, la plataforma no solo actúa como un recurso de apoyo, sino también como un medio educativo, aumentando la comprensión pública y mejorando las políticas sobre salud mental.
+
+Utilizando tecnologías avanzadas y accesibles, esta comunidad en línea propone un acceso global a recursos de salud mental, superando barreras geográficas y socioeconómicas. Con funciones como la inteligencia artificial para la moderación y personalización, la plataforma busca ofrecer intervenciones proactivas y personalizadas, creando así un espacio donde los usuarios no solo encuentren soporte sino también una comunidad resiliente y empática. Esta iniciativa representa una dirección revolucionaria en cómo las interacciones digitales pueden estructurarse para mejorar significativamente el bienestar emocional y la salud mental a gran escala.
 
 #### Personas/Usuarios
-(...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
-
+Para la comunidad en online centrada en la salud mental y emocional, el público objetivo puede ser diverso y amplio, dado que los problemas de salud mental no discriminan por edad, género, ubicación o estatus socioeconómico. 
+Pero sobre todo nos hemos centrado en jóvenes y adolescentes, ya que es el público con más actividad en redes sociales y al que más le repercute este tipo de problemas de salud emocional.
 
 ### Etapa 2: Prototipar / productos 
 
@@ -114,7 +116,8 @@ En el contexto posterior a la pandemia de COVID-19, observamos un aumento notabl
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
-(Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
+Encuestas y Cuestionarios: Recopilar feedback sobre la usabilidad y el impacto percibido de la plataforma. 
+Evaluaciones de Salud Mental: Utilizar herramientas de evaluación pre y post uso para medir cambios en la salud mental de los usuarios.
 
 #### Test con usuarios (...) 
 
@@ -127,16 +130,34 @@ En el contexto posterior a la pandemia de COVID-19, observamos un aumento notabl
 ### Conclusiones y trabajo futuro
 
 
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
+* Grado de consecución del proyecto
+  
+* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… )
+  
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
+  
+Mejoras Técnicas: Invertir en infraestructura tecnológica para asegurar que la plataforma pueda manejar un mayor volumen de usuarios simultáneamente y sin fallos.
+Adaptación de Contenido: Implementar mecanismos de feedback en tiempo real para ajustar y alinear mejor el contenido con las necesidades y preferencias actuales de los usuarios.
+Engagement de Usuarios: Desarrollar estrategias para incentivar la participación activa, como la gamificación o recompensas por interacciones
+
 * Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+  
+Colaboraciones Institucionales: Escuelas, universidades y organizaciones no gubernamentales dedicadas a la salud mental podrían estar interesadas en colaborar para expandir el alcance y la efectividad de la plataforma.
+Involucramiento de Expertos: Psicólogos, terapeutas y expertos en salud mental pueden contribuir con contenido especializado y apoyar las funciones de moderación y asesoramiento.
+Viabilidad: El proyecto es viable a largo plazo con las asociaciones adecuadas y el financiamiento continuo, dado el creciente reconocimiento de la importancia de la salud mental y el bienestar emocional.
 
 
 Referencias y recursos: 
 
-* Artículos ..  
-* Productos utilizados  
+* Artículos:
+https://www.comunidad.madrid/servicios/salud/bienestar-emocional-salud
+https://www.infocop.es/recomendaciones-de-mhe-para-conseguir-comunidades-mentalmente-saludables/
+
+* Productos utilizados
+Canva: Para el diseño de contenido visual
+Trello: Para la gestión de proyectos y seguimiento del progreso de las tareas
+Microsoft Teams: Para la comunicación interna del equipo
+Wix: Para la creación rápida de sitios web con capacidades extendidas mediante plugins
 * Propuestas de mejora
 
 (...)
@@ -154,7 +175,7 @@ Referencias y recursos:
 * [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
 * [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
 * [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
-* (...) 
+  
 
 (...)
 * (Artículos ..  )
