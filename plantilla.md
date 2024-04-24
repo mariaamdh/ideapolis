@@ -205,11 +205,11 @@ Preguntas relacionadas con la experiecia del usuarios en la plataforma y nuestro
   Preguntas enfocadas en la evaluación del progreso de la salud mental del usuario:
 
   
-  -Desde que comenzó a utilizar nuestra plataforma, ¿ha notado algún cambio en su bienestar emocional o mental?
-  -¿Ha utilizado las herramientas de autoayuda proporcionadas en la plataforma? Si es así, ¿cómo calificaría su efectividad
-  -¿Ha participado en las sesiones de grupo o foros comunitarios? ¿Han sido útiles estas interacciones para usted?
-  -¿Siente que tiene suficiente acceso a recursos de apoyo profesional a través de nuestra plataforma?
-  -En una escala del 1 al 10, ¿cómo calificaría su estado de salud mental antes y después de usar nuestra plataforma?
+-Desde que comenzó a utilizar nuestra plataforma, ¿ha notado algún cambio en su bienestar emocional o mental?
+-¿Ha utilizado las herramientas de autoayuda proporcionadas en la plataforma? Si es así, ¿cómo calificaría su efectividad
+-¿Ha participado en las sesiones de grupo o foros comunitarios? ¿Han sido útiles estas interacciones para usted?
+-¿Siente que tiene suficiente acceso a recursos de apoyo profesional a través de nuestra plataforma?
+-En una escala del 1 al 10, ¿cómo calificaría su estado de salud mental antes y después de usar nuestra plataforma?
   
   
   
@@ -238,6 +238,7 @@ Referencias y recursos:
 
 * Artículos:
 https://www.comunidad.madrid/servicios/salud/bienestar-emocional-salud
+
 https://www.infocop.es/recomendaciones-de-mhe-para-conseguir-comunidades-mentalmente-saludables/
 
 * Productos utilizados
