@@ -129,6 +129,28 @@ Se ha creado un diseño de interfaz limpio y atractivo que refleja un ambiente a
 * publicidad: banner (... )
   Se van a diseñar varios banners publicitarios desplegados en redes sociales y sitios web frecuentados por jóvenes, como plataformas de streaming. Las herramientas como canva con ayuda de generador de imagenes de inteligencia artificial serán de ayuda para crear estos elementos visuales.
 
+  Aunque la interacción de los usuarios va a ser desde las redes sociales, disponemos de una pagina web que hemos hecho con wix, donde explicamos quienes somos, añadimos los retos que se van haciendo en las redes sociales con un enlace directo que te lleva a ellos y donde alojamos los podcast que hemos ido haciendo y los que se van a realizar recientemente.
+  En la pagina web de inicio, se puede visualizar como predomina la paleta de colores naranjas y azules, en la que se reflejan nuestras redes sociales desde donde pueden interactuar los usuarios, una pequeña entrada de bienvenida y nuestro eslogan sin tapujos.
+
+  Si continuamos bajando en la página de inicio, encontramos un apartado donde explican los servicios que ofrecemos, los retos y lo activos que estamos en redes sociales y unas frases que representan nuestra comunidad y objetivos.
+
+  En la sección quienes somos, tenemos una breve introducción en la que explicamos quien esta detrás de sin tapujos.
+
+  En la sección de podcast, podemos observar varios podcast que se han ido realizando, y los próximos podcast que se van a realizar y con la fecha correspondiente, aunque días antes los promocionamos por las historias de nuestras redes sociales.
+
+  Y finalmente en la sección de retos, tenemos los retos que se estan realizando en la actualidad, lo cuales estan enlazados para dirigir a los usuarios a la red social que se están realizando.
+  
+  
+
+
+  
+
+
+  
+  
+
+  
+
 
 
 ### Etapa 3: Técnicas de evaluación utilizadas
