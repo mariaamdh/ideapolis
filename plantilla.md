@@ -1,4 +1,4 @@
-## (Nombre del proyecto)  
+## (SIN TAPUJOS)  
 
 (Plantilla para la creación de un proyecto en ideapolis)
 
@@ -55,11 +55,13 @@ Somos una empresa comprometida con el bienestar emocional y mental. Nuestro equi
 
 ### Misión
 
-Nuestro objetivo es proporcionar orientación confiable y herramientas prácticas para ayudarte a mejorar tu bienestar y calidad de vida. Contamos con una amplia experiencia en el campo y un compromiso con la educación y el apoyo a nuestra comunidad.
+Nuestro objetivo es proporcionar orientación confiable y herramientas prácticas para ayudar a los clientes a mejorar su bienestar y calidad de vida. Contamos con una amplia experiencia en el campo y un compromiso con la educación y el apoyo a nuestra comunidad.
 
 #### Vision
 
-Nos esforzamos por crear un espacio seguro y acogedor donde puedas aprender, reflexionar y conectar con otros.
+Ser la plataforma líder y referente en la creación de espacios de diálogo y aprendizaje sobre salud mental y emocional, desde cualquier ubicación, donde cada voz encuentra eco en una comunidad comprometida y empática. Aspiramos a transformar la percepción de la salud mental a través de contenido accesible, interactivo y enriquecedor, fomentando una sociedad donde hablar abiertamente de nuestras emociones y desafíos sea no solo aceptado, sino celebrado. Nuestra visión es construir un puente de conexión y soporte que empodere a individuos de todas las edades y culturas a alcanzar un bienestar integral y duradero
+
+Esta visión refleja tanto la misión educativa como la social de la empresa, promoviendo un cambio en la cultura del diálogo sobre la salud mental y buscando impactar positivamente en la comunidad a largo plazo
 
 
 
@@ -74,7 +76,7 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 ### Etapa 1: Ideación de proyecto 
 
-Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
+La ideación del proyecto la hicimos mediante la aplicación Trello 
 
 **¿Como surge el proyecto?**
 
